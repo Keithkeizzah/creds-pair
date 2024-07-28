@@ -1,4 +1,4 @@
-# Gifted-Md V5 Creds-PairCode
+# Keith-Md  Creds-PairCode
 - Pair code generator for whatsapp bots requiring creds.json
 - I recommend termux as it's easily accessible any time.
 
